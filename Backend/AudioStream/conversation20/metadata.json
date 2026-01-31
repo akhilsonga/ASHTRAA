@@ -1,0 +1,355 @@
+{
+  "title": "about cycling \n",
+  "segments": [
+    {
+      "id": 1,
+      "voice": "Voice 1",
+      "filename": "voice1-1.mp3",
+      "text": "Welcome to The Open Road. Today we\u2019re talking about cycling\u2014from gear and training to culture on two wheels. I\u2019m your host, Jake, and I\u2019ve got two guests who know their pedals.",
+      "url": "http://localhost:5011/audio/conversation20/voice1-1.mp3"
+    },
+    {
+      "id": 2,
+      "voice": "Voice 2",
+      "filename": "voice2-2.mp3",
+      "text": "Hi everyone, I\u2019m Mia, a road cyclist who squeezes in rides between work and family. I focus on endurance and smart training.",
+      "url": "http://localhost:5011/audio/conversation20/voice2-2.mp3"
+    },
+    {
+      "id": 3,
+      "voice": "Voice 3",
+      "filename": "voice3-3.mp3",
+      "text": "And I\u2019m Theo, a mountain biker who loves trail technique, bike setup, and rider safety. Ready to dive in?",
+      "url": "http://localhost:5011/audio/conversation20/voice3-3.mp3"
+    },
+    {
+      "id": 4,
+      "voice": "Voice 1",
+      "filename": "voice1-4.mp3",
+      "text": "Awesome. Mia, what\u2019s been your biggest recent breakthrough in training?",
+      "url": "http://localhost:5011/audio/conversation20/voice1-4.mp3"
+    },
+    {
+      "id": 5,
+      "voice": "Voice 2",
+      "filename": "voice2-5.mp3",
+      "text": "Consistency. I switched to shorter, frequent workouts rather than long, occasional rides. It\u2019s helped my FTP slowly creep up without burning me out.",
+      "url": "http://localhost:5011/audio/conversation20/voice2-5.mp3"
+    },
+    {
+      "id": 6,
+      "voice": "Voice 3",
+      "filename": "voice3-6.mp3",
+      "text": "Nice. Short bursts on the trail can also translate to faster pace on the road if you\u2019re careful about effort. How do you manage recovery?",
+      "url": "http://localhost:5011/audio/conversation20/voice3-6.mp3"
+    },
+    {
+      "id": 7,
+      "voice": "Voice 2",
+      "filename": "voice2-7.mp3",
+      "text": "Sleep and nutrition, mostly. I keep a simple protein + carbs post-ride, and I\u2019m strict about getting 7 hours of sleep when possible.",
+      "url": "http://localhost:5011/audio/conversation20/voice2-7.mp3"
+    },
+    {
+      "id": 8,
+      "voice": "Voice 1",
+      "filename": "voice1-8.mp3",
+      "text": "Theo, you ride both cross-country and enduro. How do you tailor your bike setup for different disciplines?",
+      "url": "http://localhost:5011/audio/conversation20/voice1-8.mp3"
+    },
+    {
+      "id": 9,
+      "voice": "Voice 3",
+      "filename": "voice3-9.mp3",
+      "text": "For XC, I prioritize lightness and efficiency\u2014stiff frame, efficient tires. For enduro, I want stability\u2014more travel, confident grips, and smart suspension tuning.",
+      "url": "http://localhost:5011/audio/conversation20/voice3-9.mp3"
+    },
+    {
+      "id": 10,
+      "voice": "Voice 2",
+      "filename": "voice2-10.mp3",
+      "text": "Speaking of tires, any quick tips on choosing between clinchers and tubeless?",
+      "url": "http://localhost:5011/audio/conversation20/voice2-10.mp3"
+    },
+    {
+      "id": 11,
+      "voice": "Voice 3",
+      "filename": "voice3-11.mp3",
+      "text": "Tubeless reduces flats and lets you run lower pressures for grip. But you\u2019ll want to seal maintenance and a capable setup kit for on-trail fixes.",
+      "url": "http://localhost:5011/audio/conversation20/voice3-11.mp3"
+    },
+    {
+      "id": 12,
+      "voice": "Voice 1",
+      "filename": "voice1-12.mp3",
+      "text": "Great point. Let\u2019s talk safety\u2014what\u2019s one habit that makes cycling safer for riders of all levels?",
+      "url": "http://localhost:5011/audio/conversation20/voice1-12.mp3"
+    },
+    {
+      "id": 13,
+      "voice": "Voice 2",
+      "filename": "voice2-13.mp3",
+      "text": "Always signal your moves and scan before lane changes. And wear bright clothing or reflective gear so drivers see you from far away.",
+      "url": "http://localhost:5011/audio/conversation20/voice2-13.mp3"
+    },
+    {
+      "id": 14,
+      "voice": "Voice 3",
+      "filename": "voice3-14.mp3",
+      "text": "Helmet fit matters too. A properly snug helmet can save a life, and it should be checked every ride for snugness and straps.",
+      "url": "http://localhost:5011/audio/conversation20/voice3-14.mp3"
+    },
+    {
+      "id": 15,
+      "voice": "Voice 1",
+      "filename": "voice1-15.mp3",
+      "text": "On the culture side, what does a welcoming cycling community look like to you both?",
+      "url": "http://localhost:5011/audio/conversation20/voice1-15.mp3"
+    },
+    {
+      "id": 16,
+      "voice": "Voice 2",
+      "filename": "voice2-16.mp3",
+      "text": "Inclusive routes, group rides that aren\u2019t intimidating to newcomers, and everyone looking out for beginners.",
+      "url": "http://localhost:5011/audio/conversation20/voice2-16.mp3"
+    },
+    {
+      "id": 17,
+      "voice": "Voice 3",
+      "filename": "voice3-17.mp3",
+      "text": "Exactly. A great scene invites curiosity and helps people build confidence, whether they\u2019re riding solo or with friends.",
+      "url": "http://localhost:5011/audio/conversation20/voice3-17.mp3"
+    },
+    {
+      "id": 18,
+      "voice": "Voice 1",
+      "filename": "voice1-18.mp3",
+      "text": "Before we wrap this segment, any quick advice for someone picking up cycling again after a long break?",
+      "url": "http://localhost:5011/audio/conversation20/voice1-18.mp3"
+    },
+    {
+      "id": 19,
+      "voice": "Voice 2",
+      "filename": "voice2-19.mp3",
+      "text": "Start slow, set small goals, and enjoy the ride. It\u2019s not about breaking records right away\u2014it\u2019s about consistency and fun.",
+      "url": "http://localhost:5011/audio/conversation20/voice2-19.mp3"
+    },
+    {
+      "id": 20,
+      "voice": "Voice 3",
+      "filename": "voice3-20.mp3",
+      "text": "And show up with a bike that fits. A comfortable ride is the easiest reason to keep going.",
+      "url": "http://localhost:5011/audio/conversation20/voice3-20.mp3"
+    },
+    {
+      "id": 21,
+      "voice": "Voice 1",
+      "filename": "voice1-21.mp3",
+      "text": "Thanks, Mia and Theo. We\u2019ll continue with listener questions next, but first a quick recap: training consistency, smart bike setup, safety mindedness, and fostering an inviting cycling culture.",
+      "url": "http://localhost:5011/audio/conversation20/voice1-21.mp3"
+    },
+    {
+      "id": 22,
+      "voice": "Voice 2",
+      "filename": "voice2-22.mp3",
+      "text": "We\u2019re up for your questions anytime. Send them in!",
+      "url": "http://localhost:5011/audio/conversation20/voice2-22.mp3"
+    },
+    {
+      "id": 23,
+      "voice": "Voice 3",
+      "filename": "voice3-23.mp3",
+      "text": "And we\u2019ll share gear checklists, basic workouts, and club listings in the next episode.",
+      "url": "http://localhost:5011/audio/conversation20/voice3-23.mp3"
+    },
+    {
+      "id": 24,
+      "voice": "Voice 1",
+      "filename": "voice1-24.mp3",
+      "text": "Welcome back to The Open Road. We left off with safety habits and a friendly cycling culture\u2014now let\u2019s dive into listener questions and some practical tips.",
+      "url": "http://localhost:5011/audio/conversation20/voice1-24.mp3"
+    },
+    {
+      "id": 25,
+      "voice": "Voice 2",
+      "filename": "voice2-25.mp3",
+      "text": "First question comes from Jess in Portland: \u201cHow do I choose a cadence for different terrains?\u201d",
+      "url": "http://localhost:5011/audio/conversation20/voice2-25.mp3"
+    },
+    {
+      "id": 26,
+      "voice": "Voice 3",
+      "filename": "voice3-26.mp3",
+      "text": "Great question. On flats, aim for a steady cadence around 90 RPM to keep legs smooth. Hilly sections? Shorter, higher-cadence bursts when you can, then recover.",
+      "url": "http://localhost:5011/audio/conversation20/voice3-26.mp3"
+    },
+    {
+      "id": 27,
+      "voice": "Voice 1",
+      "filename": "voice1-27.mp3",
+      "text": "Another reader asks about gear: \u201cTubeless, tubes, or tubeless-ready?\u201d",
+      "url": "http://localhost:5011/audio/conversation20/voice1-27.mp3"
+    },
+    {
+      "id": 28,
+      "voice": "Voice 2",
+      "filename": "voice2-28.mp3",
+      "text": "Tubeless is the sweet spot for most riders\u2014lower flats, better traction. But you\u2019ll need sealant, a compatible rim, and a bit of maintenance.",
+      "url": "http://localhost:5011/audio/conversation20/voice2-28.mp3"
+    },
+    {
+      "id": 29,
+      "voice": "Voice 3",
+      "filename": "voice3-29.mp3",
+      "text": "Right. If you\u2019re new to it, practice at a local shop first and carry a tire plug kit for emergencies.",
+      "url": "http://localhost:5011/audio/conversation20/voice3-29.mp3"
+    },
+    {
+      "id": 30,
+      "voice": "Voice 1",
+      "filename": "voice1-30.mp3",
+      "text": "Here\u2019s a training tip from Mia: how do you structure week-to-week to avoid burnout?",
+      "url": "http://localhost:5011/audio/conversation20/voice1-30.mp3"
+    },
+    {
+      "id": 31,
+      "voice": "Voice 2",
+      "filename": "voice2-31.mp3",
+      "text": "Three solid workouts plus a rest day works for me. One easy ride, one tempo ride, and one long endurance ride, with a rest or easy spin in between.",
+      "url": "http://localhost:5011/audio/conversation20/voice2-31.mp3"
+    },
+    {
+      "id": 32,
+      "voice": "Voice 3",
+      "filename": "voice3-32.mp3",
+      "text": "That leftover easy day helps. Also, listen to your body and swap a ride for mobility if you\u2019re tired.",
+      "url": "http://localhost:5011/audio/conversation20/voice3-32.mp3"
+    },
+    {
+      "id": 33,
+      "voice": "Voice 1",
+      "filename": "voice1-33.mp3",
+      "text": "Listener question time: \u201cAny quick bike-fit checks I can do at home?\u201d",
+      "url": "http://localhost:5011/audio/conversation20/voice1-33.mp3"
+    },
+    {
+      "id": 34,
+      "voice": "Voice 2",
+      "filename": "voice2-34.mp3",
+      "text": "Check reach and saddle height first. You should have a slight knee bend at the bottom of the pedal stroke and a comfortable reach to the handlebars.",
+      "url": "http://localhost:5011/audio/conversation20/voice2-34.mp3"
+    },
+    {
+      "id": 35,
+      "voice": "Voice 3",
+      "filename": "voice3-35.mp3",
+      "text": "Also, ensure your foot is centered on the pedal with your pedals parallel to each other when you ride\u2014pinky toe shouldn\u2019t be grinding.",
+      "url": "http://localhost:5011/audio/conversation20/voice3-35.mp3"
+    },
+    {
+      "id": 36,
+      "voice": "Voice 1",
+      "filename": "voice1-36.mp3",
+      "text": "Theo, how do you approach trail compatibility for your setup?",
+      "url": "http://localhost:5011/audio/conversation20/voice1-36.mp3"
+    },
+    {
+      "id": 37,
+      "voice": "Voice 3",
+      "filename": "voice3-37.mp3",
+      "text": "On steep, technical trails, I value a bit more sag and a grippier tire. On flowy, rolling trails, I\u2019ll go lighter for efficiency.",
+      "url": "http://localhost:5011/audio/conversation20/voice3-37.mp3"
+    },
+    {
+      "id": 38,
+      "voice": "Voice 2",
+      "filename": "voice2-38.mp3",
+      "text": "And for riders who want faster climbs, a lighter wheelset and tuned suspension can shave seconds off the effort\u2014without sacrificing control.",
+      "url": "http://localhost:5011/audio/conversation20/voice2-38.mp3"
+    },
+    {
+      "id": 39,
+      "voice": "Voice 1",
+      "filename": "voice1-39.mp3",
+      "text": "We\u2019ve got a couple more questions. How do you handle group rides and etiquette?",
+      "url": "http://localhost:5011/audio/conversation20/voice1-39.mp3"
+    },
+    {
+      "id": 40,
+      "voice": "Voice 2",
+      "filename": "voice2-40.mp3",
+      "text": "Signal early, ride predictably, and avoid shouting \u201ccar back\u201d unless you\u2019re sure of traffic. Be patient with newcomers and offer rides or tips after the climb.",
+      "url": "http://localhost:5011/audio/conversation20/voice2-40.mp3"
+    },
+    {
+      "id": 41,
+      "voice": "Voice 3",
+      "filename": "voice3-41.mp3",
+      "text": "And if someone is dropped, don\u2019t push the pace to the point of danger. Support and options for regrouping matter more than winning the clock.",
+      "url": "http://localhost:5011/audio/conversation20/voice3-41.mp3"
+    },
+    {
+      "id": 42,
+      "voice": "Voice 1",
+      "filename": "voice1-42.mp3",
+      "text": "Let\u2019s close with a fun one: \u201cWhat\u2019s your go-to post-ride treat?\u201d",
+      "url": "http://localhost:5011/audio/conversation20/voice1-42.mp3"
+    },
+    {
+      "id": 43,
+      "voice": "Voice 2",
+      "filename": "voice2-43.mp3",
+      "text": "Ice-cold water with a pinch of electrolytes and a smoothie bowl\u2014protein helps recovery, and the fruit tastes like victory laps.",
+      "url": "http://localhost:5011/audio/conversation20/voice2-43.mp3"
+    },
+    {
+      "id": 44,
+      "voice": "Voice 3",
+      "filename": "voice3-44.mp3",
+      "text": "For me, a strong coffee and a slice of toast with almond butter. Quick fuel that tastes like trail magic.",
+      "url": "http://localhost:5011/audio/conversation20/voice3-44.mp3"
+    },
+    {
+      "id": 45,
+      "voice": "Voice 1",
+      "filename": "voice1-45.mp3",
+      "text": "Thanks for the awesome questions, everyone. Any final tips before we sign off this segment?",
+      "url": "http://localhost:5011/audio/conversation20/voice1-45.mp3"
+    },
+    {
+      "id": 46,
+      "voice": "Voice 2",
+      "filename": "voice2-46.mp3",
+      "text": "Wear your helmet, check your brakes, and remember: the ride is better when you ride with friends or a friendly group.",
+      "url": "http://localhost:5011/audio/conversation20/voice2-46.mp3"
+    },
+    {
+      "id": 47,
+      "voice": "Voice 3",
+      "filename": "voice3-47.mp3",
+      "text": "And keep exploring new trails and routes. A little variety keeps the sport exciting for years to come.",
+      "url": "http://localhost:5011/audio/conversation20/voice3-47.mp3"
+    },
+    {
+      "id": 48,
+      "voice": "Voice 1",
+      "filename": "voice1-48.mp3",
+      "text": "That\u2019s a wrap for now. We\u2019ll drop gear lists, beginner-friendly workouts, and a map of local clubs in the next episode. Until then\u2014keep pedaling!",
+      "url": "http://localhost:5011/audio/conversation20/voice1-48.mp3"
+    },
+    {
+      "id": 49,
+      "voice": "Voice 2",
+      "filename": "voice2-49.mp3",
+      "text": "See you next time with more cycling tips and stories.",
+      "url": "http://localhost:5011/audio/conversation20/voice2-49.mp3"
+    },
+    {
+      "id": 50,
+      "voice": "Voice 3",
+      "filename": "voice3-50.mp3",
+      "text": "Happy riding, everyone.",
+      "url": "http://localhost:5011/audio/conversation20/voice3-50.mp3"
+    }
+  ]
+}
